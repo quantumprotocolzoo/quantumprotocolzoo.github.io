@@ -3,17 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://quantumprotocolzoo.github.io/posts/qpz-repo/</loc>
+    <lastmod>2019-06-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://quantumprotocolzoo.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>https://quantumprotocolzoo.github.io/tags/info/</loc>
+    <lastmod>2019-06-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://quantumprotocolzoo.github.io/posts/</loc>
+    <lastmod>2019-06-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://quantumprotocolzoo.github.io/</loc>
+    <lastmod>2019-06-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://quantumprotocolzoo.github.io/tags/</loc>
+    <lastmod>2019-06-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
