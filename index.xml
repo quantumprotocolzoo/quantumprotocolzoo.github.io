@@ -17,7 +17,7 @@
       <pubDate>Fri, 12 Jul 2019 06:51:15 +0200</pubDate>
       
       <guid>https://quantumprotocolzoo.github.io/posts/protocol-repo/</guid>
-      <description>Release 1.0 for the protocol repository In addition to the Quantum Protocol Zoo hosted at https://wiki.veriqloud.fr we have started implementing some of the protocols using simulaQron and CQC. This repository is hosted at github https://github.com/quantumprotocolzoo/protocols.
+      <description>Release 0.1 for the protocol repository In addition to the Quantum Protocol Zoo hosted at https://wiki.veriqloud.fr we have started implementing some of the protocols using simulaQron and CQC. This repository is hosted at github https://github.com/quantumprotocolzoo/protocols.
 It already contains a few protocols. More will be added in the future. We also plan to increase the robustness of these implementations and their functionality, ultimately giving access to a protocol library to be used in more complex situations.</description>
     </item>
     
