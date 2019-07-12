@@ -6,10 +6,20 @@
     <description>Recent content in Posts on Quantum Protocol Zoo&#39;s Repository</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 Jul 2019 16:57:06 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jul 2019 06:51:15 +0200</lastBuildDate>
     
 	<atom:link href="https://quantumprotocolzoo.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Protocol Repository</title>
+      <link>https://quantumprotocolzoo.github.io/posts/protocol-repo/</link>
+      <pubDate>Fri, 12 Jul 2019 06:51:15 +0200</pubDate>
+      
+      <guid>https://quantumprotocolzoo.github.io/posts/protocol-repo/</guid>
+      <description>Release 1.0 for the protocol repository In addition to the Quantum Protocol Zoo hosted at https://wiki.veriqloud.fr we have started implementing some of the protocols using simulaQron and CQC. This repository is hosted at github https://github.com/quantumprotocolzoo/protocols.
+It already contains a few protocols. More will be added in the future. We also plan to increase the robustness of these implementations and their functionality, ultimately giving access to a protocol library to be used in more complex situations.</description>
+    </item>
     
     <item>
       <title>Visualizations</title>
