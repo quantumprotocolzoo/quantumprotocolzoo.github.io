@@ -88,7 +88,12 @@ function redrawAll() {
     // get a JSON object
     allNodes = nodesDataset.get({ returnType: 'Object' });
 
-    console.log(options);
-
     network.on('click', selectNode);
+    network.on('doubleClick', visitWikiNode);
 }
+
+function visitWikiNode(params) {
+    const selectedNodeId = params.nodes[0];
+    const selectedNode = allNodes[selectedNodeId];
+    if (selectedNode.uri) { window.open(selectedNode.uri, '_blank'); }
+} 
