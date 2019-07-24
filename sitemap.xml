@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://quantumprotocolzoo.github.io/posts/weak-string-erasure/</loc>
+    <lastmod>2019-07-24T13:15:53+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://quantumprotocolzoo.github.io/posts/protocol-repo/</loc>
     <lastmod>2019-07-12T06:51:15+02:00</lastmod>
   </url>
@@ -30,13 +35,13 @@
   
   <url>
     <loc>https://quantumprotocolzoo.github.io/posts/</loc>
-    <lastmod>2019-07-12T06:51:15+02:00</lastmod>
+    <lastmod>2019-07-24T13:15:53+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://quantumprotocolzoo.github.io/</loc>
-    <lastmod>2019-07-12T06:51:15+02:00</lastmod>
+    <lastmod>2019-07-24T13:15:53+02:00</lastmod>
     <priority>0</priority>
   </url>
   
